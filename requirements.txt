@@ -1,0 +1,8 @@
+transformers
+torch
+streamlit
+gtts
+speech_recognition
+io
+pygame
+time

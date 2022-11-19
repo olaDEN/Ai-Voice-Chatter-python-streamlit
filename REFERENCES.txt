@@ -1,0 +1,7 @@
+chatbot:https://chatbotslife.com/conversational-chatbot-using-transformers-and-streamlit-73d621afde9
+https://www.thepythoncode.com/article/conversational-ai-chatbot-with-huggingface-transformers-in-python
+SpeechRecognition: https://github.com/Uberi/speech_recognition/blob/master/LICENSE.txt
+https://www.youtube.com/watch?v=Y733Vc5hHXE
+https://github.com/olaDEN
+audio to text: https://pythonprogramming.altervista.org/how-to-make-audio-from-text-without-saving-files-with-gtts-and-python/
+transformers: https://huggingface.co/docs/transformers/index
